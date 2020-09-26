@@ -14,6 +14,7 @@ Türkçe hacktoberfest repo
 ```sh
 $ git add .
 $ git commit -m 'HacktoberFest'
+$ git push origin master
 ```
 - Pull requestinizi github sayfasından açın.
 
@@ -25,5 +26,6 @@ $ git commit -m 'HacktoberFest'
 ```sh
 $ git add .
 $ git commit -m 'HacktoberFest'
+$ git push origin master
 ```
 - Create pull request on github
